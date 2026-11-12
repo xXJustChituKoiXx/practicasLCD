@@ -1,4 +1,4 @@
-# **INTRODUCCIÓN A LA COMPUTACIÓN Y EL DESARROLLO (ICD)**
+# **INTRODUCCIÓN A LA CIENCIA DE DATOS (ICD)**
 
 ### **Escuela Superior de Cómputo (ESCOM) - IPN**
 
