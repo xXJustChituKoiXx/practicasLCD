@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "helloWorld1.C": "cpp",
-        "figuras.h": "c",
-        "cmath": "c",
-        "cstdlib": "c"
-    }
-}
